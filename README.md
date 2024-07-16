@@ -1,4 +1,7 @@
-# Introduction
 
-All the projects in this folder are my practice in learning full stack development, and I may add demoes in the future based on my study of react. 
+# React.js Demo Projects
+
+This repository contains various demo projects created while learning React.js development. 
+These demos showcase the use of React.js along with Bootstrap and Material-UI.
+
 
